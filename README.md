@@ -505,28 +505,6 @@ Write destroy methods to delete documents from our database
 
 [See Solution](https://github.com/ga-wdi-exercises/reminders_mongo/blob/469d3c09059c60b7779a8c3a8c2fb12aefcc779a/controllers/authors.controller.js)
 
-## Deleting Embedded Documents (5 min)
-
-```js
-removeProject: function(req, project){
-  StudentModel.findOneAndUpdate(req, {
-    $pull: { projects: {title: project} }
-  },
-  {new: true}, function(err, docs){
-    if(err){
-      console.log(err);
-    }
-    else{
-      console.log(docs);
-    }
-  });
-}
-```
-
-## You-Do: Bonus Embedded Documents
-
-Work to Write Code to Add and Delete Reminders from an Author document
-
 ## Validations (10 min)
 
 Mongoose contains built in validators and an option to create custom validators as well.

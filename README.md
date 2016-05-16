@@ -58,7 +58,7 @@ Fork and Clone this Repo: [Starter Code](https://github.com/ATL-WDI-Exercises/mo
 
 
 ```bash
-$ npm install mongoose --save
+npm install mongoose --save
 ```
 
 In order to have access to `mongoose` in our application, we need to explicitly require mongoose and open a connection to the test database on our locally

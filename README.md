@@ -50,14 +50,11 @@ kitty.save(function (err) {
 
 ## You-Do - Step 1: Initial Set Up for Reminders (5 min)
 
-We will be creating a 2 model Todo App using Mongoose and MongoDB. In this case, we will be creating two collections Authors and Reminders. Authors will have many Reminders
+We will be creating a 2 model Todo App using Mongoose and MongoDB. In this case, we will be creating two collections Authors and Reminders. Authors will have many Reminders.
 
 1. Fork and Clone this Repo: https://github.com/ga-wdi-exercises/reminders_mongo
-2. Make sure to checkout locally to `mongoose` branch: `$ git checkout mongoose`
 
-[Starter Code](https://github.com/ga-wdi-exercises/reminders_mongo/tree/mongoose)
-
-[Solution Code](https://github.com/ga-wdi-exercises/reminders_mongo/tree/mongoose-solution)
+[Starter Code](https://github.com/ATL-WDI-Exercises/mongo-reminders.git)
 
 ## I-Do - Students & Projects Example: Mongoose and Connection Set Up (5 min)
 

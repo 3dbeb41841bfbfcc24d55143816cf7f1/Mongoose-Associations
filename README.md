@@ -52,9 +52,7 @@ kitty.save(function (err) {
 
 We will be creating a 2 model Todo App using Mongoose and MongoDB. In this case, we will be creating two collections Authors and Reminders. Authors will have many Reminders.
 
-1. Fork and Clone this Repo:
-
-[Starter Code](https://github.com/ATL-WDI-Exercises/mongo-reminders.git)
+Fork and Clone this Repo: [Starter Code](https://github.com/ATL-WDI-Exercises/mongo-reminders.git)
 
 ## I-Do - Students & Projects Example: Mongoose and Connection Set Up (5 min)
 

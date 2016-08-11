@@ -74,3 +74,9 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 ### Step 3
 
 * be prepared to build your own CRUD app :white_check_mark:
+
+---
+
+## Resources
+
+* https://github.com/ga-wdi-lessons/mongo-relationships

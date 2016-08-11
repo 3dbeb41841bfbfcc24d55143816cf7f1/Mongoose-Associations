@@ -46,9 +46,9 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 
 ===
 
-### Important blog post series
+### MongoDB Blog series: schema design
 
-#### Part one
+#### [Part one](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
 * three basic schema designs
     - embedding
@@ -57,17 +57,21 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
   
 ##### What is meant by __application-level join?__
 
-We think it has to do with calling on the relations between the different collections that make up our app. Consider the examples
+#### [Part two](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
 
-## Step 1
+#### [Part three](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
+
+---
+
+### Step 1
 
 * explore the different approaches to modeling relationships with short examples
 
-## Step 2
+### Step 2
 
 * add some relations to our existing Todos app
 
 
-## Step 3
+### Step 3
 
 * be prepared to build your own CRUD app :white_check_mark:

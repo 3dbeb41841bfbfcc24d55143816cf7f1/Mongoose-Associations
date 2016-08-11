@@ -52,14 +52,13 @@ We think it has to do with calling on the relations between the different collec
 
 ## Step 1
 
-* start with a fake example
-* a scenario of many to many
+* explore the different approaches to modeling relationships with short examples
 
 ## Step 2
 
-* add something to our existing example
+* add some relations to our existing Todos app
 
 
 ## Step 3
 
-* prepare to build your own CRUD app!
+* be prepared to build your own CRUD app :white_check_mark:

@@ -2,11 +2,10 @@
 
 ## Learning objectives
 
-* use mongoose schemae and models; populate 
+* utilize mongoose schemae and models; mongoose operations like query and populate 
 * discuss one-to-few, one-to-many, and one-to-squillions modeling choices, including pros and cons of each approach
 * implement different relations via embedding or referencing, two-way referencing, and denormalization
 * add relations to the data stores of our app (CRUD functionality)
-- common mongoose queries
 * agree on what the canonical blog posts mean by __application-level join__ or at least explain what it means in the context of related data
 
 ## Introduction

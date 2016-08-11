@@ -24,11 +24,17 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 
 ###### Can you think of other data relationships that call for a many-to-many model?
 
+===
+
 #### One-to-one
 ![A diagram showing a One to One database relationship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CPT-Databases-OnetoOne.svg/500px-CPT-Databases-OnetoOne.svg.png)
 > A country has only one capital city, and a capital city is the capital of only one country.
 
 > [Wikipedia: One-to-one (data model)](https://en.wikipedia.org/wiki/One-to-one_(data_model))
+
+###### Are there any other relationships that call for this model?
+
+===
 
 #### N-to-one
 ![A diagram showing a One to One database relationship](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CPT-Databases-OnetoMany.svg/500px-CPT-Databases-OnetoMany.svg.png)
@@ -36,6 +42,9 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 
 > [Wikipedia: One-to-many (data model)](https://en.wikipedia.org/wiki/One-to-many_(data_model))
 
+###### Finally, what data relationships  call for the one-to-many model?
+
+===
 
 ### Important blog post series
 

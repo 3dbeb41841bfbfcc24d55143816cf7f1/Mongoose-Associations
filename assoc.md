@@ -36,8 +36,6 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 
 > [Wikipedia: One-to-many (data model)](https://en.wikipedia.org/wiki/One-to-many_(data_model))
 
-#### In practice (follow link to scary UML diagram)
-
 
 ### Important blog post series
 

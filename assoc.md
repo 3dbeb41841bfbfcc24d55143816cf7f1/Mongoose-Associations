@@ -19,15 +19,19 @@ In contrast to NoSQL, relational databases talk about many-to-many or one-to-man
 
 ![A diagram showing a Many to Many database relationship](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CPT-Databases-ManytoMany.svg/460px-CPT-Databases-ManytoMany.svg.png)
 > One book can be written by many authors. One author can write many books.
-> (Wikipedia: Many-to-many (data model))[https://en.wikipedia.org/w/index.php?title=Many-to-many_(data_model)&oldid=726249648]
+
+> [Wikipedia: Many-to-many (data model)](https://en.wikipedia.org/w/index.php?title=Many-to-many_(data_model)&oldid=726249648)
 
 #### One-to-one
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CPT-Databases-OnetoOne.svg/500px-CPT-Databases-OnetoOne.svg.png
-https://en.wikipedia.org/wiki/One-to-one_(data_model)
+![A diagram showing a One to One database relationship](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CPT-Databases-OnetoOne.svg/500px-CPT-Databases-OnetoOne.svg.png)
+> A country has only one capital city, and a capital city is the capital of only one country.
+
+> [Wikipedia: One-to-one (data model)](https://en.wikipedia.org/wiki/One-to-one_(data_model))
 
 #### N-to-one
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CPT-Databases-OnetoMany.svg/500px-CPT-Databases-OnetoMany.svg.png
-https://en.wikipedia.org/wiki/One-to-many_(data_model)
+![A diagram showing a One to One database relationship](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/CPT-Databases-OnetoMany.svg/500px-CPT-Databases-OnetoMany.svg.png)
+
+> [Wikipedia: One-to-many (data model)](https://en.wikipedia.org/wiki/One-to-many_(data_model))
 
 #### In practice (follow link to scary UML diagram)
 
@@ -45,16 +49,16 @@ https://en.wikipedia.org/wiki/One-to-many_(data_model)
 
 We think it has to do with calling on the relations between the different collections that make up our app. Consider the examples
 
-## I do
+## Step 1
 
 * start with a fake example
 * a scenario of many to many
 
-## We do
+## Step 2
 
-* add something?? to our existing example
+* add something to our existing example
 
 
-## You do
+## Step 3
 
-* point one
+* prepare to build your own CRUD app!
